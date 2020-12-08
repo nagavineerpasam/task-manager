@@ -2,7 +2,7 @@
 
 Requirements
 ---
-Flask (pip install flask) is required for all the examples.
+Flask (pip install flask) is required.
 
 
 
